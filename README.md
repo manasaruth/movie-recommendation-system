@@ -6,7 +6,7 @@ This project analyzes movie review data using data science techniques to underst
 The analysis was performed using Python in a Jupyter Notebook environment.
 
 
- Technologies Used
+ ## Technologies Used
 
 - Python
 - Pandas
@@ -15,8 +15,21 @@ The analysis was performed using Python in a Jupyter Notebook environment.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+  ## Dataset
 
- Data Science Concepts Applied
+The dataset used in this project is based on movie reviews and ratings from Rotten Tomatoes.
+
+It contains information such as:
+- Movie titles
+- Audience scores
+- Critic ratings
+- Review sentiments
+- Additional metadata related to movie performance
+
+The dataset was used to perform exploratory data analysis and sentiment analysis to understand audience perception of movies.
+
+
+## Data Science Concepts Applied
 
 Exploratory Data Analysis (EDA)
 
@@ -39,7 +52,7 @@ Data preprocessing ensures dataset quality by handling:
 - Inconsistent data formats
 
 
-Industry Context
+## Industry Context
 
 The entertainment and film industry generates massive amounts of data from audience reviews, streaming platforms, and critic ratings.
 Modern media companies use data analytics and machine learning to understand audience behavior, predict movie success, and improve marketing strategies.
@@ -47,7 +60,7 @@ Modern media companies use data analytics and machine learning to understand aud
 This project demonstrates how data science techniques can transform subjective movie reviews into objective, data-driven insights.
 
 
- Project Structure
+ ## Project Structure
 
 movie-review-analysis
 │
@@ -56,13 +69,13 @@ movie-review-analysis
 └── README.md
 
 
- Future Improvements
+## Future Improvements
 
 - Build a web interface using Streamlit
 - Improve recommendation algorithms
 - Expand dataset for better predictions
 
 
- Author
+## Author
 
 Manasa – MCA (Artificial Intelligence)
